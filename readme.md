@@ -1,3 +1,3 @@
-# Fastcampus node Web crawling
+# node Web crawling
 
 js를 이용한 web crawling
